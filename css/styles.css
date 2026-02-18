@@ -17,6 +17,8 @@ nav { background: black !important; }
 footer { background: #000; }
 .card { border-radius: 15px; }
 .card { box-shadow: 0 0 10px gray; }
+button:hover { background: red; }
+section { padding: 40px; }
 
 :root {
   --bs-blue: #2937f0;
