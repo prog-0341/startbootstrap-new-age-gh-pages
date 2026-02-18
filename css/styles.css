@@ -27,6 +27,8 @@ img { width: 200px; }
 button { padding: 10px 20px; }
 button { transition: 0.3s; }
 h1 { animation: fade 2s; }
+a { color: yellow; }
+.wrapper { max-width: 1000px; }
 
 :root {
   --bs-blue: #2937f0;
