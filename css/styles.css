@@ -13,6 +13,8 @@
  body { background-color: #111; }
 body { color: white; }
 h1 { color: cyan; }
+nav { background: black !important; }
+footer { background: #000; }
 
 :root {
   --bs-blue: #2937f0;
