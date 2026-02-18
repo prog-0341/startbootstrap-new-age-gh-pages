@@ -23,6 +23,8 @@ section { margin: 20px; }
 .container-main { display: flex; }
 .projects { display: grid; }
 @media (max-width:600px){ body{font-size:14px;} }
+img { width: 200px; }
+button { padding: 10px 20px; }
 
 :root {
   --bs-blue: #2937f0;
