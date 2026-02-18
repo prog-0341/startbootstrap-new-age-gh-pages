@@ -25,6 +25,8 @@ section { margin: 20px; }
 @media (max-width:600px){ body{font-size:14px;} }
 img { width: 200px; }
 button { padding: 10px 20px; }
+button { transition: 0.3s; }
+h1 { animation: fade 2s; }
 
 :root {
   --bs-blue: #2937f0;
