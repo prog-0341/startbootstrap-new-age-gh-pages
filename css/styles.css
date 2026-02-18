@@ -21,6 +21,8 @@ button:hover { background: red; }
 section { padding: 40px; }
 section { margin: 20px; }
 .container-main { display: flex; }
+.projects { display: grid; }
+@media (max-width:600px){ body{font-size:14px;} }
 
 :root {
   --bs-blue: #2937f0;
