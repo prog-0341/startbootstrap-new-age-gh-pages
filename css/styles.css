@@ -19,6 +19,8 @@ footer { background: #000; }
 .card { box-shadow: 0 0 10px gray; }
 button:hover { background: red; }
 section { padding: 40px; }
+section { margin: 20px; }
+.container-main { display: flex; }
 
 :root {
   --bs-blue: #2937f0;
