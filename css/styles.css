@@ -11,6 +11,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  body { background-color: #111; }
+body { color: white; }
+h1 { color: cyan; }
 
 :root {
   --bs-blue: #2937f0;
